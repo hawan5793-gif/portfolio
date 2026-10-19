@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#123f35"/>
+  <path d="M0 365 800 210v290H0Z" fill="#0c302a"/>
+  <path d="M0 385 800 230M0 450 800 295" stroke="#c5dd75" stroke-width="2" opacity=".34"/>
+  <circle cx="616" cy="182" r="118" fill="#c5dd75" opacity=".12"/>
+  <circle cx="616" cy="182" r="86" fill="none" stroke="#d9ed96" stroke-width="3" opacity=".8"/>
+  <path d="M579 148h74v67h-74z" fill="#f3efe5"/>
+  <path d="M579 148h74v19h-74z" fill="#c5dd75"/>
+  <path d="m579 215 37-15 37 15-37 18z" fill="#d8d0b9"/>
+  <path d="m616 200 37 15v-67h-37z" fill="#e4e0d4"/>
+  <text x="58" y="78" fill="#c5dd75" font-family="system-ui,sans-serif" font-size="17" font-weight="700" letter-spacing="5">ARSIP SUPORTER · 2021</text>
+  <text x="58" y="185" fill="#f3efe5" font-family="system-ui,sans-serif" font-size="68" font-weight="800" letter-spacing="-3">SUARA</text>
+  <text x="58" y="255" fill="#f3efe5" font-family="system-ui,sans-serif" font-size="68" font-weight="800" letter-spacing="-3">SLEMAN</text>
+  <rect x="58" y="294" width="215" height="4" fill="#c5dd75"/>
+  <text x="58" y="332" fill="#d8e0d5" font-family="system-ui,sans-serif" font-size="17">Kronologi aksi protes dan tuntutan</text>
+  <text x="58" y="359" fill="#d8e0d5" font-family="system-ui,sans-serif" font-size="17">Sleman Fans kepada manajemen klub</text>
+  <text x="400" y="475" text-anchor="middle" fill="#d8e0d5" opacity=".68" font-family="system-ui,sans-serif" font-size="13" letter-spacing="2">PSS SLEMAN · ARSIP BERITA</text>
+</svg>

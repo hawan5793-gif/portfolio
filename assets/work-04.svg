@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#161311"/>
+  <rect x="50" y="50" width="340" height="240" rx="8" fill="#FF4A1C"/>
+  <rect x="410" y="50" width="340" height="240" rx="8" fill="#1B4D3E"/>
+  <rect x="50" y="310" width="700" height="12" rx="4" fill="#F2EEE455"/>
+  <rect x="50" y="340" width="600" height="12" rx="4" fill="#F2EEE433"/>
+  <rect x="50" y="370" width="500" height="12" rx="4" fill="#F2EEE422"/>
+  <rect x="50" y="410" width="200" height="40" rx="6" fill="#FF4A1C"/>
+  <text x="400" y="480" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#F2EEE488">Jalan Pulang — Dokumenter Web</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#1B4D3E"/>
+  <circle cx="400" cy="250" r="140" fill="none" stroke="#FF4A1C" stroke-width="6" opacity=".4"/>
+  <circle cx="400" cy="250" r="100" fill="none" stroke="#FF4A1C" stroke-width="4" opacity=".6"/>
+  <circle cx="400" cy="250" r="60" fill="none" stroke="#FF4A1C" stroke-width="3" opacity=".8"/>
+  <circle cx="400" cy="250" r="20" fill="#FF4A1C"/>
+  <rect x="60" y="420" width="200" height="14" rx="4" fill="#F2EEE466"/>
+  <rect x="60" y="450" width="160" height="10" rx="4" fill="#F2EEE433"/>
+  <text x="400" y="480" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#F2EEE488">Studio Bunyi — Visualizer Audio</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e7edf5"/>
+  <rect x="42" y="38" width="716" height="424" rx="18" fill="#fff"/>
+  <rect x="42" y="38" width="175" height="424" rx="18" fill="#f8fafc"/>
+  <path d="M199 38v424" stroke="#e1e8f0" stroke-width="2"/>
+  <rect x="65" y="61" width="30" height="30" rx="9" fill="#3976dc"/><path d="m72 76 8-8 8 8-8 8z" fill="#fff"/>
+  <text x="105" y="82" fill="#223858" font-family="system-ui,sans-serif" font-size="18" font-weight="700">Stockify</text>
+  <text x="65" y="128" fill="#8a9ab0" font-family="system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">WORKSPACE</text>
+  <rect x="59" y="143" width="126" height="34" rx="9" fill="#eaf1ff"/><text x="77" y="165" fill="#285da7" font-family="system-ui,sans-serif" font-size="13">Dashboard</text>
+  <text x="77" y="205" fill="#687d99" font-family="system-ui,sans-serif" font-size="13">Produk</text><text x="77" y="239" fill="#687d99" font-family="system-ui,sans-serif" font-size="13">Kategori</text><text x="77" y="273" fill="#687d99" font-family="system-ui,sans-serif" font-size="13">Supplier</text>
+  <text x="242" y="80" fill="#2b8b72" font-family="system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">STOCKIFY / ADMIN</text>
+  <text x="242" y="118" fill="#233b5f" font-family="system-ui,sans-serif" font-size="30" font-weight="700">Ringkasan stok</text>
+  <g fill="#fff" stroke="#dce5f1" stroke-width="2"><rect x="241" y="145" width="112" height="70" rx="11"/><rect x="365" y="145" width="112" height="70" rx="11"/><rect x="489" y="145" width="112" height="70" rx="11"/><rect x="613" y="145" width="112" height="70" rx="11"/></g>
+  <g fill="#8492a4" font-family="system-ui,sans-serif" font-size="10"><text x="254" y="168">Produk</text><text x="378" y="168">Total unit</text><text x="502" y="168">Stok masuk</text><text x="626" y="168">Stok keluar</text></g>
+  <g fill="#20395d" font-family="system-ui,sans-serif" font-size="22" font-weight="700"><text x="254" y="198">20</text><text x="378" y="198">2.020</text><text x="502" y="198">22</text><text x="626" y="198">3</text></g>
+  <rect x="241" y="235" width="304" height="196" rx="12" fill="#fff" stroke="#dce5f1" stroke-width="2"/><rect x="561" y="235" width="164" height="196" rx="12" fill="#fff" stroke="#dce5f1" stroke-width="2"/>
+  <text x="260" y="263" fill="#233b5f" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Grafik stok barang</text>
+  <path d="M263 399h261M263 365h261M263 331h261M263 297h261" stroke="#e8eef6" stroke-width="2" stroke-dasharray="5 6"/>
+  <g fill="#5285e8"><rect x="278" y="325" width="27" height="74" rx="5"/><rect x="322" y="342" width="27" height="57" rx="5"/><rect x="366" y="300" width="27" height="99" rx="5"/><rect x="410" y="354" width="27" height="45" rx="5"/><rect x="454" y="316" width="27" height="83" rx="5"/><rect x="498" y="369" width="18" height="30" rx="5"/></g>
+  <circle cx="643" cy="326" r="58" fill="none" stroke="#e9eef6" stroke-width="18"/><circle cx="643" cy="326" r="58" fill="none" stroke="#3976dc" stroke-width="18" stroke-dasharray="120 245" transform="rotate(-90 643 326)"/><circle cx="643" cy="326" r="58" fill="none" stroke="#16a67a" stroke-width="18" stroke-dasharray="58 307" stroke-dashoffset="-130" transform="rotate(-90 643 326)"/>
+  <text x="643" y="323" text-anchor="middle" fill="#55657b" font-family="system-ui,sans-serif" font-size="11">Total unit</text><text x="643" y="344" text-anchor="middle" fill="#1e2b3e" font-family="system-ui,sans-serif" font-size="17" font-weight="700">2.020</text>
+  <text x="400" y="482" text-anchor="middle" fill="#687d99" font-family="system-ui,sans-serif" font-size="12">Stockify — Manajemen Stok Barang</text>
+</svg>

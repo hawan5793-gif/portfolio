@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#EBE4D8"/>
+  <rect x="50" y="50" width="700" height="30" rx="4" fill="#161311"/>
+  <rect x="50" y="95" width="700" height="340" rx="8" fill="#FFFFFF"/>
+  <rect x="75" y="125" width="650" height="18" rx="3" fill="#161311"/>
+  <rect x="75" y="155" width="580" height="12" rx="3" fill="#16131144"/>
+  <rect x="75" y="180" width="620" height="12" rx="3" fill="#16131133"/>
+  <rect x="75" y="205" width="420" height="12" rx="3" fill="#16131122"/>
+  <rect x="75" y="240" width="650" height="18" rx="3" fill="#161311"/>
+  <rect x="75" y="270" width="600" height="12" rx="3" fill="#16131144"/>
+  <rect x="75" y="295" width="550" height="12" rx="3" fill="#16131133"/>
+  <rect x="75" y="330" width="650" height="18" rx="3" fill="#161311"/>
+  <rect x="75" y="360" width="480" height="12" rx="3" fill="#16131144"/>
+  <rect x="75" y="385" width="520" height="12" rx="3" fill="#16131133"/>
+  <text x="400" y="480" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#6b6357">Ruang Baca — Perpustakaan Digital</text>
+</svg>

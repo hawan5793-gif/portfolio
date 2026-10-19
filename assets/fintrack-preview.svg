@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e9e5dc"/>
+  <rect x="68" y="32" width="260" height="436" rx="30" fill="#202d27"/>
+  <rect x="80" y="45" width="236" height="410" rx="23" fill="#f6f4ec"/>
+  <rect x="163" y="54" width="70" height="14" rx="7" fill="#202d27"/>
+  <text x="102" y="103" fill="#738078" font-family="system-ui,sans-serif" font-size="12">Selamat pagi, Hawan</text>
+  <text x="102" y="133" fill="#24342c" font-family="system-ui,sans-serif" font-size="22" font-weight="700">Ringkasan</text>
+  <rect x="98" y="152" width="200" height="110" rx="16" fill="#25493b"/>
+  <text x="116" y="180" fill="#c2d9ca" font-family="system-ui,sans-serif" font-size="11">TOTAL SALDO</text>
+  <text x="116" y="217" fill="#fff" font-family="system-ui,sans-serif" font-size="27" font-weight="700">Rp 4.850.000</text>
+  <path d="M116 241h37" stroke="#aad887" stroke-width="4" stroke-linecap="round"/>
+  <rect x="98" y="277" width="94" height="60" rx="12" fill="#e2f0e6"/><rect x="204" y="277" width="94" height="60" rx="12" fill="#f7e7e2"/>
+  <text x="110" y="297" fill="#668473" font-family="system-ui,sans-serif" font-size="9">PEMASUKAN</text><text x="110" y="321" fill="#276d49" font-family="system-ui,sans-serif" font-size="14" font-weight="700">+ Rp 6,2 jt</text>
+  <text x="216" y="297" fill="#98756d" font-family="system-ui,sans-serif" font-size="9">PENGELUARAN</text><text x="216" y="321" fill="#b55747" font-family="system-ui,sans-serif" font-size="14" font-weight="700">− Rp 1,3 jt</text>
+  <text x="100" y="365" fill="#24342c" font-family="system-ui,sans-serif" font-size="12" font-weight="700">Transaksi terbaru</text>
+  <circle cx="111" cy="392" r="10" fill="#dcece2"/><text x="130" y="391" fill="#3e4c43" font-family="system-ui,sans-serif" font-size="10">Belanja kebutuhan</text><text x="130" y="407" fill="#929b92" font-family="system-ui,sans-serif" font-size="9">Hari ini · 10.30</text><text x="267" y="399" fill="#b55747" font-family="system-ui,sans-serif" font-size="11">− Rp 85 rb</text>
+  <rect x="382" y="89" width="344" height="322" rx="20" fill="#f7f4ed"/>
+  <text x="414" y="133" fill="#7d887f" font-family="system-ui,sans-serif" font-size="12" letter-spacing="2">FINTRACK · KEUANGAN PERSONAL</text>
+  <text x="414" y="187" fill="#263c30" font-family="system-ui,sans-serif" font-size="38" font-weight="700">Atur uang,</text>
+  <text x="414" y="232" fill="#263c30" font-family="system-ui,sans-serif" font-size="38" font-weight="700">lebih tenang.</text>
+  <path d="M414 265h250" stroke="#d8ddd5" stroke-width="2"/>
+  <rect x="414" y="292" width="112" height="70" rx="12" fill="#dbe9dd"/><rect x="540" y="292" width="142" height="70" rx="12" fill="#eae4d7"/>
+  <path d="M431 337c13-19 27-6 39-20s24-7 39-18" fill="none" stroke="#4d8a62" stroke-width="4" stroke-linecap="round"/><circle cx="509" cy="299" r="5" fill="#4d8a62"/>
+  <text x="557" y="322" fill="#67746a" font-family="system-ui,sans-serif" font-size="11">ANGGARAN BULANAN</text><text x="557" y="344" fill="#263c30" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Terkendali</text>
+  <text x="400" y="472" text-anchor="middle" fill="#6e756c" font-family="system-ui,sans-serif" font-size="13">FinTrack — Manajemen Keuangan</text>
+</svg>

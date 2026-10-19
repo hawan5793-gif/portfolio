@@ -1,0 +1,280 @@
+﻿<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Muhammad Akbar Fikriansyah — Full-Stack Developer</title>
+  <meta name="description" content="Portofolio Muhammad Akbar Fikriansyah, full-stack developer yang membangun aplikasi web dari antarmuka hingga backend." />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <a class="skip-link" href="#main">Lewati ke konten</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a href="#top" class="brand">Muhammad Akbar Fikriansyah</a>
+      <nav aria-label="Navigasi utama">
+        <ul class="nav">
+          <li><a href="#tentang">Tentang</a></li>
+          <li><a href="#proyek">Proyek</a></li>
+          <li><a href="#kontak">Kontak</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- Hero -->
+    <section class="hero" id="top">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <p class="availability">Tersedia untuk proyek freelance dan kolaborasi</p>
+          <h1>Web digital yang terasa <em>jelas.</em><br />Dibuat untuk manusia.</h1>
+          <p class="hero-lede">
+            Full-stack developer yang membangun produk web dari antarmuka hingga backend. Saya memperhatikan hierarki, jarak, dan detail interaksi kecil agar produk terasa rapi dan mudah digunakan.
+          </p>
+          <div class="actions">
+            <a class="btn btn-solid" href="#proyek">Lihat proyek</a>
+            <a class="link" href="#kontak">Hubungi saya</a>
+          </div>
+        </div>
+
+        <figure class="hero-figure relative isolate" id="heroFigure">
+          <span class="portrait-layer portrait-layer-back" aria-hidden="true"></span>
+          <span class="portrait-layer portrait-layer-middle" aria-hidden="true"></span>
+          <span class="portrait-layer portrait-layer-front" aria-hidden="true"></span>
+          <img class="relative z-10" src="assets/hawan-portrait.jpg" alt="Potret Muhammad Akbar Fikriansyah mengenakan jas biru tua" width="912" height="1140" />
+        </figure>
+      </div>
+    </section>
+
+    <!-- Tentang -->
+    <section class="section" id="tentang" aria-labelledby="tentang-title">
+      <div class="wrap">
+        <div class="about-collage">
+          <div class="about-top">
+            <figure class="about-stamp">
+              <span class="stamp-star" aria-hidden="true">✦</span>
+              <img src="assets/hawan-portrait.jpg" alt="Potret Muhammad Akbar Fikriansyah" loading="lazy" />
+              <span class="stamp-smile" aria-hidden="true">☺</span>
+              <figcaption>MUHAMMAD AKBAR FIKRIANSYAH</figcaption>
+            </figure>
+            <div class="about-intro">
+              <p class="about-kicker">Full-stack · UI/UX · Web</p>
+              <h2 id="tentang-title" class="section-title">Tentang<br />Saya</h2>
+              <p class="about-lead">Saya memandang desain dan kode sebagai satu hal yang sama. Keputusan visual harus bisa diterjemahkan menjadi perilaku yang jelas di browser.</p>
+              <p class="about-summary">Saya sedang menempuh pendidikan SMK sambil membangun aplikasi web dengan Laravel dan JavaScript modern, serta menyusun CSS yang modular. Saya memperhatikan kontras, navigasi keyboard, dan detail interaksi agar produk mudah digunakan.</p>
+            </div>
+          </div>
+
+          <dl class="about-facts">
+            <div><dt>Status</dt><dd>Pelajar SMK</dd></div>
+            <div><dt>Fokus</dt><dd>Antarmuka, sistem desain, dan aksesibilitas</dd></div>
+            <div><dt>Keahlian</dt><dd>HTML semantik, CSS modern, Tailwind CSS, JavaScript, React, Laravel, MySQL</dd></div>
+          </dl>
+
+          <section class="bio-details" aria-labelledby="bio-title">
+            <div class="bio-heading">
+              <p class="about-kicker">Profil singkat</p>
+              <h3 id="bio-title">Biodata</h3>
+            </div>
+            <dl class="bio-grid">
+              <div><dt>Nama lengkap</dt><dd>Muhammad Akbar Fikriansyah</dd></div>
+              <div><dt>Status</dt><dd>Pelajar SMK</dd></div>
+              <div><dt>Tempat lahir</dt><dd>Kudus</dd></div>
+              <div><dt>Tanggal lahir</dt><dd>01 Oktober 2009</dd></div>
+              <div><dt>Riwayat pendidikan</dt><dd>RA Muslimat Cekok · MI Maarif Cekok · SMK PGRI 2 Ponorogo</dd></div>
+              <div><dt>Pengalaman</dt><dd>Sedang membangun proyek web sambil menempuh pendidikan SMK</dd></div>
+              <div><dt>Fokus</dt><dd>UI/UX, web dev, dan aksesibilitas</dd></div>
+            </dl>
+          </section>
+          <ol class="about-disciplines" aria-label="Bidang yang saya kerjakan">
+            <li><span>01.</span> UI/UX</li>
+            <li><span>02.</span> Web dev</li>
+            <li><span>03.</span> Sistem desain</li>
+            <li><span>04.</span> Aksesibilitas</li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <!-- Proyek -->
+    <section class="section" id="proyek" aria-labelledby="proyek-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="proyek-title" class="section-title">Proyek pilihan</h2>
+          <p class="section-note">Aplikasi web, eksperimen interaksi, dan arsip berita suporter.</p>
+        </div>
+
+        <ul class="projects">
+          <li class="project">
+            <div class="kost-preview">
+              <span class="kost-preview-kicker">KOST SAYA <i>·</i> DASHBOARD</span>
+              <span class="kost-callout kost-occupancy"><span class="callout-label">KAMAR TERISI</span><strong>2 / 2</strong><span class="callout-note">Semua kamar aktif</span></span>
+              <img class="project-image kost-phone-image" src="assets/kost-saya-phone.png" alt="Tampilan aplikasi Kost Saya di dalam mockup ponsel" loading="lazy" />
+              <span class="kost-callout kost-income"><span class="callout-label">PEMASUKAN BULAN INI</span><strong>Rp 1 jt</strong><span class="callout-note">Pembayaran tercatat</span></span>
+            </div>
+            <div class="project-body">
+              <h3 class="project-title">Kost Saya</h3>
+              <p class="project-type">Mobile web untuk manajemen sewa kost</p>
+              <p class="project-desc">
+                Dashboard mobile untuk memantau kamar, pembayaran sewa, dan ringkasan pemasukan bulanan.
+              </p>
+              <ul class="tags" aria-label="Teknologi">
+                <li><img src="assets/laravel.svg" alt="" />Laravel 12</li>
+                <li><img src="assets/mysql.svg" alt="" />MySQL</li>
+                <li><img src="assets/tailwind.svg" alt="" />Tailwind</li>
+              </ul>
+            </div>
+            <div class="project-links">
+              <a href="http://127.0.0.1:8000" target="_blank" rel="noreferrer">Lihat website</a>
+              <a href="https://github.com/hawan5793-gif" target="_blank" rel="noreferrer">Kode</a>
+            </div>
+          </li>
+
+          <li class="project">
+            <img class="project-image" src="assets/work-02.svg" alt="Ilustrasi dashboard Stockify, aplikasi manajemen stok" loading="lazy" />
+            <div class="project-body">
+              <h3 class="project-title">Stockify</h3>
+              <p class="project-type">Sistem pencatatan gudang dan inventaris</p>
+              <p class="project-desc">
+                Pencatatan stok multi-kategori dengan riwayat perubahan dan peringatan otomatis saat stok menipis.
+              </p>
+              <ul class="tags" aria-label="Teknologi">
+                <li><img src="assets/laravel.svg" alt="" />Laravel 12</li>
+                <li><img src="assets/xampp.svg" alt="" />XAMPP</li>
+                <li><span class="tag-monogram" aria-hidden="true">API</span>REST API</li>
+              </ul>
+            </div>
+            <div class="project-links">
+              <a href="http://localhost:8080/stockify" target="_blank" rel="noreferrer">Buka aplikasi</a>
+              <a href="https://github.com/hawan5793-gif" target="_blank" rel="noreferrer">Kode</a>
+            </div>
+          </li>
+
+          <li class="project">
+            <img class="project-image" src="assets/motion-pulse-illustration.svg" alt="Ilustrasi poster Motion Pulse dengan potret Muhammad Akbar Fikriansyah dan gelombang gerak" loading="lazy" />
+            <div class="project-body">
+              <h3 class="project-title">Motion Pulse</h3>
+              <p class="project-type">Eksperimen interaksi</p>
+              <p class="project-desc">
+                Gerak elemen yang mengikuti kursor dengan interpolasi halus, dibuat tanpa framework.
+              </p>
+              <ul class="tags" aria-label="Teknologi">
+                <li><img src="assets/javascript.svg" alt="" />Vanilla JS</li>
+                <li><img src="assets/gsap.svg" alt="" />GSAP</li>
+              </ul>
+            </div>
+            <div class="project-links">
+              <a href="#top">Coba di halaman ini</a>
+              <a href="https://github.com/hawan5793-gif" target="_blank" rel="noreferrer">Kode</a>
+            </div>
+          </li>
+
+          <li class="project">
+            <img class="project-image" src="assets/pss-sleman.svg" alt="Ilustrasi grafis suporter PSS Sleman mengangkat syal" loading="lazy" />
+            <div class="project-body">
+              <h3 class="project-title">PSS Sleman — Suara Suporter</h3>
+              <p class="project-type">Website berita · Kronologi aksi protes 2021</p>
+              <p class="project-desc">
+                Merangkum aksi protes Sleman Fans terhadap manajemen PSS Sleman pada akhir 2021, di tengah kekecewaan atas performa tim di awal Liga 1 2021/2022 serta persoalan tata kelola dan komunikasi klub.
+              </p>
+            </div>
+            <div class="project-links">
+              <a href="https://pss-sleman.vercel.app/" target="_blank" rel="noreferrer">Lihat website</a>
+              <a href="https://github.com/hawan5793-gif/pss-sleman" target="_blank" rel="noreferrer">Kode</a>
+            </div>
+          </li>
+
+          <li class="project">
+            <img class="project-image" src="assets/fintrack-preview.svg" alt="Ilustrasi aplikasi FinTrack dengan ringkasan saldo dan transaksi" loading="lazy" />
+            <div class="project-body">
+              <h3 class="project-title">FinTrack — Manajemen Keuangan</h3>
+              <p class="project-type">APK · Aplikasi manajemen keuangan personal</p>
+              <p class="project-desc">Catat pemasukan dan pengeluaran, kelompokkan transaksi, lalu pantau saldo serta anggaran bulanan lewat satu ringkasan yang mudah dipahami.</p>
+            </div>
+            <div class="project-links">
+              <a href="#" aria-label="Tambahkan URL website FinTrack">Lihat website</a>
+              <a href="#" aria-label="Tambahkan URL kode FinTrack">Kode</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Kontak -->
+    <section class="section" id="kontak" aria-labelledby="kontak-title">
+      <div class="wrap contact-grid">
+        <div>
+          <h2 id="kontak-title" class="section-title">Mari bicara</h2>
+          <p class="contact-lede">
+            Terbuka untuk pembuatan website, sistem internal, dan kolaborasi dari desain ke kode. Ceritakan konteks proyek Anda secara singkat.
+          </p>
+        </div>
+
+        <div class="contact-actions">
+          <div class="email-row">
+            <a class="email" href="mailto:akbar.magangjogja@gmail.com">akbar.magangjogja@gmail.com</a>
+            <button type="button" class="btn btn-ghost" id="copyEmail" data-email="akbar.magangjogja@gmail.com">Salin</button>
+          </div>
+          <p class="copy-status" id="copyStatus" role="status" aria-live="polite"></p>
+
+          <ul class="socials">
+            <li><a href="https://github.com/hawan5793-gif" target="_blank" rel="noreferrer">
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .9a11.1 11.1 0 0 0-3.51 21.63c.55.1.76-.24.76-.53v-2.08c-3.1.68-3.76-1.32-3.76-1.32-.5-1.29-1.24-1.63-1.24-1.63-1.01-.69.08-.68.08-.68 1.12.08 1.71 1.15 1.71 1.15.99 1.7 2.6 1.21 3.23.93.1-.72.39-1.21.71-1.49-2.48-.28-5.09-1.24-5.09-5.52 0-1.22.44-2.22 1.15-3-.12-.28-.5-1.42.11-2.96 0 0 .94-.3 3.05 1.15a10.6 10.6 0 0 1 5.55 0c2.12-1.44 3.05-1.15 3.05-1.15.61 1.54.23 2.68.11 2.96.72.78 1.15 1.78 1.15 3 0 4.29-2.62 5.23-5.11 5.51.4.35.76 1.03.76 2.08V22c0 .29.2.64.77.53A11.1 11.1 0 0 0 12 .9Z"/></svg>
+              GitHub</a></li>
+            <li><a href="https://wa.me/6285232383962?text=Halo%20Muhammad%20Akbar%20Fikriansyah%2C%20saya%20ingin%20berdiskusi%20tentang%20proyek." target="_blank" rel="noreferrer">
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.9 11.9 0 0 0 12 .01C5.4.01.04 5.36.04 11.96c0 2.1.55 4.15 1.6 5.96L0 24l6.25-1.64a11.9 11.9 0 0 0 5.75 1.46h.01c6.6 0 11.96-5.36 11.96-11.96 0-3.19-1.24-6.19-3.47-8.36ZM12 21.8h-.01a9.9 9.9 0 0 1-5.04-1.38l-.36-.21-3.71.97.99-3.62-.24-.37a9.9 9.9 0 1 1 8.37 4.61Zm5.43-7.42c-.3-.15-1.77-.87-2.05-.97-.28-.1-.48-.15-.68.15-.2.3-.78.97-.96 1.17-.17.2-.35.22-.65.07-.3-.15-1.25-.46-2.38-1.47-.88-.78-1.47-1.75-1.64-2.05-.17-.3-.02-.46.13-.61.14-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.38-.02-.53-.08-.15-.68-1.63-.93-2.23-.24-.58-.49-.5-.68-.51h-.58c-.2 0-.53.08-.8.38-.28.3-1.06 1.03-1.06 2.5 0 1.48 1.08 2.9 1.23 3.1.15.2 2.12 3.24 5.13 4.54.72.31 1.28.5 1.71.64.72.23 1.37.2 1.88.12.57-.08 1.77-.72 2.02-1.42.25-.7.25-1.3.18-1.43-.08-.13-.28-.2-.58-.35Z"/></svg>
+              WhatsApp</a></li>
+            <li><a href="https://www.instagram.com/lillfly_/" target="_blank" rel="noreferrer">
+              <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7.2 2h9.6A5.2 5.2 0 0 1 22 7.2v9.6a5.2 5.2 0 0 1-5.2 5.2H7.2A5.2 5.2 0 0 1 2 16.8V7.2A5.2 5.2 0 0 1 7.2 2Zm0 2A3.2 3.2 0 0 0 4 7.2v9.6A3.2 3.2 0 0 0 7.2 20h9.6a3.2 3.2 0 0 0 3.2-3.2V7.2A3.2 3.2 0 0 0 16.8 4H7.2Zm4.8 3a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm5.2-3.5a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4Z"/></svg>
+              Instagram</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <p>&copy; 2026 Muhammad Akbar Fikriansyah</p>
+      <a href="#top">Kembali ke atas</a>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#d4e1d9"/>
+  <path fill="none" stroke="#fff" stroke-width="2" opacity=".7" d="M0 88c120-34 175 30 300-2s205-38 320-3 120 12 180-9M0 168c110-24 196 26 307 0s218-28 333 2 109 16 160-2M0 260c100-35 192 17 316-7s230-26 350 10 96 12 134 0M0 360c96-29 205 18 330-3s230-22 345 5 100 17 125 4"/>
+  <path fill="#e8dfc9" stroke="#c7bda8" stroke-width="2" d="M112 85c26-22 46-13 53 6s-8 28-21 34-17 26-37 24-22-20-13-36 3-20 18-28Zm104 95c22-16 40-8 48 9s-2 27-16 35-10 22-28 19-21-16-14-30-5-21 10-33Zm79 80c28-19 46-8 52 9 7 19-9 33-26 38s-16 25-37 19-17-21-8-35 2-20 19-31Zm113-121c24-20 49-12 54 5 6 20-9 31-24 37s-17 24-37 20-19-20-10-34 0-18 17-28Zm91 155c27-19 44-8 50 9s-5 29-23 36-15 23-34 18-17-20-9-33 1-21 16-30Zm126-94c20-18 41-12 47 3s-1 26-16 34-12 20-29 17-18-17-12-29 0-17 10-25Z"/>
+  <path d="M86 426h628" stroke="#819889" stroke-width="1" stroke-dasharray="5 8"/>
+  <g fill="#c56d4c" stroke="#fff" stroke-width="5"><circle cx="145" cy="118" r="12"/><circle cx="247" cy="211" r="12"/><circle cx="350" cy="297" r="12"/><circle cx="438" cy="150" r="12"/><circle cx="520" cy="331" r="12"/><circle cx="644" cy="248" r="12"/></g>
+  <rect x="34" y="28" width="236" height="56" rx="6" fill="#f7f3e9"/>
+  <text x="53" y="52" fill="#293b36" font-family="system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="2">NUSA ATLAS</text>
+  <text x="53" y="70" fill="#65766d" font-family="system-ui,sans-serif" font-size="11">Peta Interaktif</text>
+  <rect x="655" y="29" width="111" height="42" rx="5" fill="#f7f3e9"/>
+  <text x="677" y="55" fill="#293b36" font-family="system-ui,sans-serif" font-size="12">＋　−</text>
+</svg>
